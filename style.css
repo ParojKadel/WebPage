@@ -1,0 +1,129 @@
+body {
+    background-color: #000000;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1a1a1a; 
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #FFFFFF; 
+
+}
+
+.about-me {
+    width: 50%; 
+    float: left;
+    margin-top: 0px;
+    margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: white; 
+}
+
+.paroj {
+    width: 50%; 
+    float: left;
+    margin-top: 0px;
+    margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: white; 
+}
+
+hr {
+    width: 50%;
+    float: left;
+    margin-top: 0px;
+    margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
+
+.project { 
+    width: 50%; 
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: white; 
+}
+
+.writing {  
+    width: 50%; 
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    /*color: rgb(219, 48, 48);*/
+}
+.writing a {
+    display: block; 
+    margin: 5px 0;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: rgb(48, 68, 219);
+}
+
+.skills {
+    width: 50%; 
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: white;
+}
+
+.profile-photo {
+    position: absolute;
+    right: 50px; 
+    top: 40%;
+    transform: translateY(-50%);
+    width: 350px; 
+    height: 350px; 
+    border-radius: 60%; 
+    object-fit: cover; 
+    object-position: center top; 
+}
+
+
+.contact-container {
+    font-family: 'Comic Sans MS', cursive;
+    position: absolute;
+    right: 100px;
+    top: 70%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+.contact-container a {
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: rgb(48, 68, 219);
+}
+
+.language {
+    font-family: 'Comic Sans MS', cursive;
+    position: absolute;
+    right: 110px;
+    top: 110%;
+    transform: translateY(-150%);
+    text-align: center;
+}
+.school {
+    font-family: 'Comic Sans MS', cursive;
+    position: absolute;
+    right: 65px;
+    top: 135%;
+    transform: translateY(-150%);
+    text-align: center;
+}
+
+
+
+
