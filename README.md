@@ -28,7 +28,7 @@ You can clone this repository to your local machine and open the `index.html` fi
 While this is a personal project, I am open to suggestions and contributions that could enhance this web page. Feel free to fork the repository and submit pull requests.
 
 ## Contact
-If you have any questions, feedback, or just want to say hi, please feel free to reach out to me at [(mailto:paroj.kadel@aalto.fi).
+If you have any questions, feedback, or just want to say hi, please feel free to reach out to me at (paroj.kadel@aalto.fi).
 
 Thank you for visiting my project!
 
